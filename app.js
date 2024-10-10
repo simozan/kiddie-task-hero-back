@@ -5,6 +5,7 @@ require("./db");
 const express = require("express");
 
 const app = express();
+//Simo
 
 require("./config")(app);
 
